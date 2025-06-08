@@ -59,7 +59,7 @@ export default function ContactPage() {
 
       <div className="max-w-3xl mx-auto">
         <h1 className="text-4xl font-bold mb-4 text-center">
-          Get in Touch with Leaptics
+          Get in Touch with Team Leaptics
         </h1>
         <p className="text-center text-gray-600 mb-10">
           Fill out the form below and we’ll connect with you shortly.
