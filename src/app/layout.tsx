@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Leaptics | Digital Marketing",
   description: "Let Leaptics grow your business online",
+  icons: {
+    icon: "/hala.png", // <- replace with your custom favicon path
+  },
 };
 
 export default function RootLayout({
